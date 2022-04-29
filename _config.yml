@@ -1,4 +1,4 @@
-theme: minima
+theme: jekyll-theme-merlot
 title: Paul & Léo's Project Page
 description: Switch between visualization by clicking on links ! 
 baseurl : ProjetMongo
