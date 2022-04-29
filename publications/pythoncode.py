@@ -298,7 +298,7 @@ if print(len(common_elements(Combemale, Combemale)))!= 0:
   with open('author.txt', 'w') as f:
     f.write('Lefèvre_Sébastien Combemale_Benoit')
 
-g3 = nx.read_edgelist("data/authors.txt", create_using=nx.DiGraph)
+g3 = nx.read_edgelist("authors.txt", create_using=nx.DiGraph)
 
 node_color = []
 pr = nx.pagerank(g3)
