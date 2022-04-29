@@ -6,8 +6,9 @@
 <a href = "https://leoguichard.shinyapps.io/projet_mongodb_doctolib"> Visualization about doctolib's database with shiny</a>
 
 
-<h3>2nd exercise</h3>
-[Visualization about publications' database with bokeh] ()
+<h3>2nd exercise</h3> scientifiques du laboratoire IRISA pour l’année 2021 (extraites du service HAL)
+<p>Visualization of the connections between the 20 best authors 
+<a href = "publications_page.html">Visualization about publications' database with bokeh</a>
 
 
 <h3>3rd exercise</h3>
